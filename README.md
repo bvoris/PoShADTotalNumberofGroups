@@ -1,0 +1,2 @@
+# PoShADTotalNumberofGroups
+Ever want to know the total number of Distribution or Security groups in your AD environment?  Just for giggles I wrote this for one of my peers. It will go through AD and filter by group.  It will make a total count of that group and write back to the host what that count is.  Run scripts from PowerShell ISE or PowerShell Console  Created by Brad Voris  Distribution Group Count
